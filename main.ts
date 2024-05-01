@@ -1,5 +1,5 @@
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.floorLight1, function (sprite, location) {
-    mySprite.sayText(":)")
+	
 })
 controller.up.onEvent(ControllerButtonEvent.Pressed, function () {
     mySprite.vy = -200
