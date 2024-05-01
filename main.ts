@@ -30,3 +30,4 @@ mySprite = sprites.create(img`
 scene.cameraFollowSprite(mySprite)
 mySprite.ay = 200
 controller.moveSprite(mySprite, 100, 0)
+info.setScore(0)
