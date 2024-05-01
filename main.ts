@@ -1,3 +1,6 @@
+info.onScore(100, function () {
+	
+})
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.floorLight1, function (sprite, location) {
 	
 })
