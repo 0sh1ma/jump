@@ -9,7 +9,7 @@
 
 * [https://arcade.makecode.com/](https://arcade.makecode.com/) を開く
 * **新しいプロジェクト** をクリックしてください
-* ギアボタンメニューの中にある **拡張機能** をクリックしてください
+* ギアボタンメニューの中にある **拡張機能** をクリックしてくださ い
 * **https://github.com/0sh1ma/jump** を検索してインポートします。
 
 ## このプロジェクトを編集します ![Build status badge](https://github.com/0sh1ma/jump/workflows/MakeCode/badge.svg)
